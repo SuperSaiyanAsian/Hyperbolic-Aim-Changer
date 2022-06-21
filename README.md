@@ -1,2 +1,2 @@
-# Hyperbolic-Aim-Changer
+# Hyperbolic Aim Changer
 Best way to get insaiyan aim
