@@ -5,6 +5,7 @@ Best way to get insaiyan aim
 
 - Player movement (WASD)
 - First Person aiming
+- Third Person aiming
 - Crosshair (custom crosshairs?)
 - Main room (a practice room with options to spawn targets)
 - Target movement
@@ -13,3 +14,7 @@ Best way to get insaiyan aim
 - Varied damage between headshots and bodyshots
 - Timed challenges (maybe)
 - Saving personal score and comparing to past results
+- Allow custom keybinds
+- Various weapons (Sniper Rifles, Bows, ARs, SMGs, Pistols, etc.)
+- Multiplayer
+- Player customization
