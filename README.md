@@ -17,4 +17,5 @@ Best way to get insaiyan aim
 - Allow custom keybinds
 - Various weapons (Sniper Rifles, Bows, ARs, SMGs, Pistols, etc.)
 - Multiplayer
-- Player customization
+- Players receive cosmetics upon reaching certain scores, completing challenges, etc.
+- Player/weapon customization
